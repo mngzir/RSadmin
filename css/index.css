@@ -402,3 +402,5 @@ table.detail-view th {
 .top-info-box {background-color: #008c9e; border-radius: 2px; border-right: 3px solid #005f6b; margin-bottom: 20px;}
 .top-info-box .fa{color: #005f6b; font-size: 64px; border-left:1px solid #005f6b; padding-left: 15px; float: right}
 .top-info-box .desc{float: right; padding-right: 15px; color: #FFFFFF; line-height: 33px;}
+.rsabout {text-align:center; padding-top:20px;}
+.rsabout a{color:#005f6b;}
